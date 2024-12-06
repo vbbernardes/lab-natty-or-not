@@ -6,10 +6,10 @@ Este video de 1 minuto apresenta uma visao rápida das aplicações das IAs Gene
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
 IA Generativa D-ID para criação do avatar virtual;
-IA Generativa para sintetização de voz'
+IA Generativa ElevenLabs para sintetizacao de voz;
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual. e voz sintetizada, trazendo uma dimensão futurística ao vídeo.
+Usei o "ChatGPT" para escrever o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar. E o ElevenLabs para sintetização de voz.
 
 https://youtu.be/ZdrNqgg0yqE?feature=shared
 
